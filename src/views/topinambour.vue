@@ -1,13 +1,11 @@
 <template>
-  <div class="home">
+  <div class="topi">
     <img alt="Kodatech logo" src="../assets/logo.png" width="40%">
-    <HelloWorld msg="Bienvenue sur la saison 2 de KodaTech!"/>
+    <h1>Coming soon!</h1>
   </div>
 </template>
 
 <script>
-// @ is an alias to /src
-import HelloWorld from '@/components/HelloWorld.vue'
 
 export default {
   name: 'Home',
